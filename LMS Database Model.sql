@@ -36,7 +36,7 @@ CREATE TABLE IF NOT EXISTS `school`.`table1` (
   PRIMARY KEY (`id`)
 ) ENGINE = InnoDB;
 
-
+-- Delete this extra practice table
 -- -----------------------------------------------------
 -- Table `school`.`instructors`
 -- -----------------------------------------------------
